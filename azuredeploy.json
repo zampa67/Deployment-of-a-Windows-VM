@@ -150,7 +150,7 @@
               "destinationPortRange": "3389",
               "protocol": "Tcp",
               "sourcePortRange": "*",
-              "sourceAddressPrefix": "*",
+              "sourceAddressPrefix": "192.168.100.0/24",
               "destinationAddressPrefix": "*"
             }
           }
